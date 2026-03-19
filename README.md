@@ -24,7 +24,6 @@ The goal: **maximum compression with minimum accuracy loss**, producing models s
 ![System Architecture](./assets/architecture.png)
 *Figure: RL-driven KD framework — the DQN agent observes a 6-dimensional state vector and outputs a distillation policy that modulates teacher-student knowledge transfer at each training step.*
 
->  Architecture diagram to be added. Place your figure at `"C:\Users\calpo\Downloads\KD+RL Architecture.png"`.
 
 ---
 
