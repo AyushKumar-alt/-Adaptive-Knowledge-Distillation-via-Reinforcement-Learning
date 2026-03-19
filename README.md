@@ -1,0 +1,2 @@
+# -Adaptive-Knowledge-Distillation-via-Reinforcement-Learning
+Knowledge Distillation compresses large teachers into efficient students, but fixed α weighting ignores evolving learning needs. This project formulates α scheduling as an MDP, training a DQN agent to adaptively balance teacher guidance and self-learning. On CIFAR-10 and Tiny-ImageNet, RL-adaptive KD boosts accuracy and reduces teacher dependence.
